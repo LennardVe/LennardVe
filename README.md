@@ -16,4 +16,4 @@ Software developer focused on Java and backend engineering. I enjoy building cle
 
 - **Languages:** Java, SQL
 - **Frameworks & Libraries:** Spring Boot, Hibernate, JPA, JUnit
-- **Tools & Infrastructure:** Git, Maven, Gradle, Docker, Linux
+- **Tools & Infrastructure:** Git, Maven, Gradle
