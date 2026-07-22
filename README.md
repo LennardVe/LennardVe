@@ -1,16 +1,28 @@
 # Lennard
 
-Software developer focused on Java and backend engineering. I like writing clean, efficient code and figuring out how high-performance systems actually work under the hood.
+Software developer focused on Java, backend systems, and Computational Linguistics. I like writing clean, maintainable code and building algorithmic engines from scratch to understand how complex systems work under the hood.
 
-## About me
+---
 
-I'm currently building backend services and a few open-source tools in Java. What interests me most is building systems that are both performant and maintainable REST API design, database structure, and object-oriented architecture.
+## About Me
 
-## A project I'm proud of
+I'm currently focused on the intersection of backend engineering and Natural Language Processing (NLP). I enjoy building core linguistic tools ranging from vector math and embedding engines to rule-based syntax checking and statistical language detection—all without relying on heavy external frameworks.
 
-**[Mini-Word2Vec-Engine](https://github.com/LennardVe/Mini-Word2Vec-Engine)** a word2vec-style word embedding engine built from scratch in Java, including skip-gram with negative sampling, with no ML libraries involved. It was a good excuse to dig into the math behind embeddings, and to show that this kind of thing can be implemented cleanly without frameworks like TensorFlow or PyTorch.
+My main areas of interest include object-oriented architecture, language processing algorithms, database structure, and performant REST API design.
 
-## Tech stack
+---
+
+## Featured Projects
+
+- **[Mini-Word2Vec-Engine](https://github.com/LennardVe/Mini-Word2Vec-Engine)** A Word2Vec-style word embedding engine built entirely from scratch in Java with zero machine learning dependencies. Implements Skip-Gram with Stochastic Gradient Descent and includes a CLI for real-time semantic similarity and vector math calculations.
+
+- **[lingua-lint](https://github.com/LennardVe/lingua-lint)** A modular, extensible text-linting engine in pure Java designed to catch grammatical issues, style violations, and passive voice patterns through a pluggable rule architecture.
+
+- **[lingua-detect](https://github.com/LennardVe/lingua-detect)** A statistical language identification engine that uses character N-gram frequency profiles and vector similarity metrics (Cosine Distance) to classify raw text across multiple languages.
+
+---
+
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
